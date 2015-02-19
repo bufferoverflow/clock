@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "name": "clock",
+  "description": "the CLOCK",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/icon16x16.png",
+    "48": "/img/icons/icon48x48.png",
+    "60": "/img/icons/icon60x60.png",
+    "128": "/img/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "Roger Meier <roger@bufferoverflow.ch>",
+    "url": "https://github.com/bufferoverflow/clock/"
+  }
+}

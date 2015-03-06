@@ -12,5 +12,16 @@
   "developer": {
     "name": "Roger Meier <roger@bufferoverflow.ch>",
     "url": "https://github.com/bufferoverflow/clock/"
+  },
+  "default_locale": "en",
+  "locales": {
+    "eo": {
+      "name": "horloĝo",
+      "description": "la HORLOĜO"
+    },
+    "it": {
+      "name": "orologio",
+      "description": "l'OROLOGIO"
+    }
   }
 }

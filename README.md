@@ -20,7 +20,3 @@ The initial source code for index.html and js/app.js is from http://www.3quarks.
      Version: 1.0
      Email:   ludi(at)me(dot)com
      URI:     http://www.3Quarks.com/de/Bahnhofsuhr/
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bufferoverflow/clock/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-

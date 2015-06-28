@@ -10,6 +10,10 @@ The goal is to provide a well readable clock based on open standards.
 * [CONTRIBUTING](CONTRIBUTING.md)
 * [LICENSE](LICENSE.md)
 
+# Why
+
+Get familiar with the Mozilla Marketplace ecosystem and Open Web Applications.
+
 # Origin
 The initial source code for index.html and js/app.js is from http://www.3quarks.com/images/svg/siemens-clock.svg
 

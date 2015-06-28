@@ -10,7 +10,7 @@
     "128": "/icons/icon128x128.png"
   },
   "developer": {
-    "name": "Roger Meier <roger@bufferoverflow.ch>",
+    "name": "Roger Meier",
     "url": "https://github.com/bufferoverflow/clock/"
   },
   "default_locale": "en",
